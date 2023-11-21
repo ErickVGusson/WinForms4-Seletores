@@ -45,6 +45,7 @@
             this.testeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.teste2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.teste21ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.colorDialog1 = new System.Windows.Forms.ColorDialog();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -189,7 +190,7 @@
             this.teste2ToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(304, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(302, 24);
             this.menuStrip1.TabIndex = 14;
             this.menuStrip1.Text = "menuStrip1";
             this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
@@ -218,7 +219,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(304, 411);
+            this.ClientSize = new System.Drawing.Size(302, 411);
             this.Controls.Add(this.maskedTextBox1);
             this.Controls.Add(this.btnCheckListBox);
             this.Controls.Add(this.checkedListBox1);
@@ -265,6 +266,7 @@
         private System.Windows.Forms.ToolStripMenuItem testeToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem teste2ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem teste21ToolStripMenuItem;
+        private System.Windows.Forms.ColorDialog colorDialog1;
     }
 }
 
