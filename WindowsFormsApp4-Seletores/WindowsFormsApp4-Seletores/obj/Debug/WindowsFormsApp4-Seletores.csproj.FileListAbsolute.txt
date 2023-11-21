@@ -1,0 +1,10 @@
+C:\Users\erick.vgusson\source\repos\WinForms4-Seletores\WindowsFormsApp4-Seletores\WindowsFormsApp4-Seletores\bin\Debug\WindowsFormsApp4-Seletores.exe.config
+C:\Users\erick.vgusson\source\repos\WinForms4-Seletores\WindowsFormsApp4-Seletores\WindowsFormsApp4-Seletores\bin\Debug\WindowsFormsApp4-Seletores.exe
+C:\Users\erick.vgusson\source\repos\WinForms4-Seletores\WindowsFormsApp4-Seletores\WindowsFormsApp4-Seletores\bin\Debug\WindowsFormsApp4-Seletores.pdb
+C:\Users\erick.vgusson\source\repos\WinForms4-Seletores\WindowsFormsApp4-Seletores\WindowsFormsApp4-Seletores\obj\Debug\WindowsFormsApp4-Seletores.csproj.AssemblyReference.cache
+C:\Users\erick.vgusson\source\repos\WinForms4-Seletores\WindowsFormsApp4-Seletores\WindowsFormsApp4-Seletores\obj\Debug\WindowsFormsApp4_Seletores.Form1.resources
+C:\Users\erick.vgusson\source\repos\WinForms4-Seletores\WindowsFormsApp4-Seletores\WindowsFormsApp4-Seletores\obj\Debug\WindowsFormsApp4_Seletores.Properties.Resources.resources
+C:\Users\erick.vgusson\source\repos\WinForms4-Seletores\WindowsFormsApp4-Seletores\WindowsFormsApp4-Seletores\obj\Debug\WindowsFormsApp4-Seletores.csproj.GenerateResource.cache
+C:\Users\erick.vgusson\source\repos\WinForms4-Seletores\WindowsFormsApp4-Seletores\WindowsFormsApp4-Seletores\obj\Debug\WindowsFormsApp4-Seletores.csproj.CoreCompileInputs.cache
+C:\Users\erick.vgusson\source\repos\WinForms4-Seletores\WindowsFormsApp4-Seletores\WindowsFormsApp4-Seletores\obj\Debug\WindowsFormsApp4-Seletores.exe
+C:\Users\erick.vgusson\source\repos\WinForms4-Seletores\WindowsFormsApp4-Seletores\WindowsFormsApp4-Seletores\obj\Debug\WindowsFormsApp4-Seletores.pdb
